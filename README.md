@@ -1,13 +1,11 @@
-# labday2017-LSTM
-Purpose of this repo is to kickoff an LSTM exploration project for KPN Data Science Labday 2017
-
-## Goals
-
-* Follow [this](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) tutorial to get a first analysis up and running
-* Try the same code on a different data set
-* Improve performance on that dataset by experimenting with network architecture
+# lstm-predictions
+The purpose of this repo is to provide out-of-the-box functionality for predicting time-series using LSTM networks
 
 ## Prerequisites
 
 * Have a keras / tensorflow environment available to start in a virtual environment
   * [Guide for inspiration](https://gist.github.com/pumpikano/24b55447ef8b2d8f5c4d)
+  
+## Set-up 
+
+* Work in progress
